@@ -90,9 +90,12 @@ If you want to implement your own communication-efficient method based on this c
 ## Citation
 ```
 @inproceedings{wei2026infocom,
-  title={InfoCom: Kilobyte-Scale Communication-Efficient Collaborative Perception with Information Bottleneck},
+  title={Infocom: kilobyte-scale communication-efficient collaborative perception with information bottleneck},
   author={Wei, Quanmin and Dai, Penglin and Li, Wei and Liu, Bingyi and Wu, Xiao},
   booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  number={35},
+  pages={29731--29739},
   year={2026}
 }
 ```
