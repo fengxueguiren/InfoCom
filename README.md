@@ -79,7 +79,7 @@ python opencood/tools/train_infocom.py --model_dir opv2v_coalign_2025_04_01_13_4
 
 ## Checkpoints
 
-The main checkpoints can be downloaded [here](TODO), and then save them in the `opencood/logs` directory. Note that our checkpoints rely on spconv=1.2.1.
+The main checkpoints can be downloaded [here](https://drive.google.com/drive/folders/1CoZ5rN4hXlBg78G1NNVZ6BrbUpJFXh3j?usp=sharing), and then save them in the `opencood/logs` directory. Note that our checkpoints rely on spconv=1.2.1.
 
 We provide two types of checkpoints: pre-trained base models and the full communication-efficient InfoCom models.
 
